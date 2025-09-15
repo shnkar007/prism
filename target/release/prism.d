@@ -1,1 +1,0 @@
-E:\aiutils\prism\target\release\prism.exe: E:\aiutils\prism\src\analyzer.rs E:\aiutils\prism\src\app.rs E:\aiutils\prism\src\cli.rs E:\aiutils\prism\src\config.rs E:\aiutils\prism\src\document_processor.rs E:\aiutils\prism\src\lib.rs E:\aiutils\prism\src\main.rs E:\aiutils\prism\src\ui.rs
