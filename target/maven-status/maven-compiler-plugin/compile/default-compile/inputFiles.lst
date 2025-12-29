@@ -1,0 +1,16 @@
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/UmlDiagrams.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/AnalysisRequest.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/TestCases.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/controller/ConfigController.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/NonFunctionalRequirement.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/Ambiguity.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/CompletenessAnalysis.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/UserStoryValidation.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/service/AnalyzerService.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/AnalysisResult.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/controller/AnalysisController.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/AmbiguitySeverity.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/ExtractedEntities.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/model/AnalysisPreset.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/PrismApiApplication.java
+/home/runner/work/prism/prism/src/main/java/com/prism/api/service/ConfigurationService.java
